@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb1c4f61-3249-4b58-9d72-8eec8e0df01e" name="Changes" comment="First Class Setup">
+    <list default="true" id="cb1c4f61-3249-4b58-9d72-8eec8e0df01e" name="Changes" comment="Constructor method">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Doctor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -22,6 +23,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jonamx13"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="afba9678-96db-424c-8ffc-6af161500bf6" />
+        <option name="url" value="https://github.com/jonamx13/MyMedicalAppointment.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
@@ -80,11 +95,20 @@
       <option name="project" value="LOCAL" />
       <updated>1703715021907</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Constructor method">
+      <option name="closed" value="true" />
+      <created>1703715261602</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703715261602</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Class Setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Class Setup" />
+    <MESSAGE value="Constructor method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Constructor method" />
   </component>
 </project>
