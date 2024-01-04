@@ -2,6 +2,7 @@ public class Doctor {
     // Attributes
     static int id = 0; // Autoincrement
     String name;
+    String email;
     String specialty;
 
     Doctor() {
