@@ -1,4 +1,5 @@
 public class Doctor {
+    // Attributes
     static int id = 0; // Autoincrement
     String name;
     String specialty;
@@ -8,9 +9,11 @@ public class Doctor {
         id++;
     }
 
-    Doctor(String name) {
+    Doctor(String name, String specialty) {
         System.out.println("The assigned Doctor's name is: " + name);
         id++;
+        this.name = name;
+        this.specialty = specialty;
     }
 
     // Behaviours
