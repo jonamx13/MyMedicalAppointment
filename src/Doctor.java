@@ -10,6 +10,7 @@ public class Doctor {
         id++;
     }
 
+    //Behaviours
     Doctor(String name, String specialty) {
         System.out.println("The assigned Doctor's name is: " + name);
         id++;
