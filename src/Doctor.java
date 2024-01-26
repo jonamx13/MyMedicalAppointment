@@ -3,7 +3,7 @@ public class Doctor {
     static int id = 0; // Autoincrement
     String name;
     String email;
-    String specialty;
+    String speciality;
 
     Doctor() {
         System.out.println("Building the Doctor object");
@@ -15,7 +15,7 @@ public class Doctor {
         System.out.println("The assigned Doctor's name is: " + name);
         id++;
         this.name = name;
-        this.specialty = specialty;
+        this.speciality = specialty;
     }
 
     // Behaviours

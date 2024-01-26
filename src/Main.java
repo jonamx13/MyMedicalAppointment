@@ -6,7 +6,7 @@ public class Main {
 
         Doctor myDoctor = new Doctor("Jonathan Meixueiro", "Cardiologist");
         System.out.println(myDoctor.name);
-        System.out.println(myDoctor.specialty);
+        System.out.println(myDoctor.speciality);
 
         Patient patient = new Patient("Alexandra", "alexandra@mail.com");
         patient.setWeight(54.6);
