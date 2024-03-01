@@ -68,7 +68,7 @@ public class Patient {
 
     public void setPhoneNumber(String phoneNumber) {
         if (phoneNumber.length() > 8) {
-            System.out.println("Invalid number, it must be a valid phone (8 digita Max.)");
+            System.out.println("Invalid number, it must be a valid phone (8 digits Max.)");
         } else if (phoneNumber.length() == 8) {
             this.phoneNumber = phoneNumber;
         }
