@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb1c4f61-3249-4b58-9d72-8eec8e0df01e" name="Changes" comment="Typo correction for setPhoneNumber &quot;8 digits max.&quot;">
+    <list default="true" id="cb1c4f61-3249-4b58-9d72-8eec8e0df01e" name="Changes" comment="Enumerations">
+      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Doctor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patient.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709324855972</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Enumerations">
+      <option name="closed" value="true" />
+      <created>1709328370430</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1709328370430</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -198,6 +208,7 @@
     <MESSAGE value="Doctor class typo in &quot;speciality&quot;" />
     <MESSAGE value="Nested classes" />
     <MESSAGE value="Typo correction for setPhoneNumber &quot;8 digits max.&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Typo correction for setPhoneNumber &quot;8 digits max.&quot;" />
+    <MESSAGE value="Enumerations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Enumerations" />
   </component>
 </project>
