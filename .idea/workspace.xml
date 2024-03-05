@@ -4,10 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb1c4f61-3249-4b58-9d72-8eec8e0df01e" name="Changes" comment="Polimorfism (Overriding methods)">
+    <list default="true" id="cb1c4f61-3249-4b58-9d72-8eec8e0df01e" name="Changes" comment="Polimorfism (Overriding 'toString' method)">
+      <change afterPath="$PROJECT_DIR$/src/model/AppointmentDoctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/AppointmentNurse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/ISchedulable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Nurse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Doctor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Doctor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Patient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/UIMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/UIMenu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +25,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -207,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709626752771</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Polimorfism (Overriding 'toString' method)">
+      <option name="closed" value="true" />
+      <created>1709631655519</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1709631655519</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -226,6 +242,7 @@
     <MESSAGE value="Enumerations" />
     <MESSAGE value="Inheritance (Super and this), abstraction for (Doctor / Patient) classes to (User - Extends)" />
     <MESSAGE value="Polimorfism (Overriding methods)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Polimorfism (Overriding methods)" />
+    <MESSAGE value="Polimorfism (Overriding 'toString' method)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Polimorfism (Overriding 'toString' method)" />
   </component>
 </project>
